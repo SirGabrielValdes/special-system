@@ -4,7 +4,7 @@ class Antecedentes:
         self.perso_id = perso_id,
         self.ciud_id = ciud_id,
         self.pais_id = pais_id,
-        self.antece_fecha = antece_fecha
+        self.antece_fecha = antece_fecha,
         self.antece_tipo = antece_tipo
         
         
